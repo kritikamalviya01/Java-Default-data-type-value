@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DefaultValue/DefaultValue.iml" filepath="$PROJECT_DIR$/DefaultValue/DefaultValue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Default-data-type-value.iml" filepath="$PROJECT_DIR$/.idea/Java-Default-data-type-value.iml" />
+    </modules>
+  </component>
+</project>
